@@ -16,4 +16,4 @@ You play as a girl that was trapped in a dungeon, you must fight your way throug
   <li>Reach the end without dying and beat the final boss.</li>
 </ul>
 
-If your terminal doesn't support Unicode (consider getting one that does) but see <a href = "https://github.com/Tarroook/A-door-was-opened-lite-">this</a>.
+If your terminal doesn't support Unicode (consider getting one that does) but see <a href = "https://github.com/Tarroook/A-Door-Was-Opened-Lite-">this</a>.
