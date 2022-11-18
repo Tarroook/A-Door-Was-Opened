@@ -1,5 +1,5 @@
 # A-door-was-opened
-Game made in java as a school assignment that runs on all terminals that support Unicode. 
+Game made in java as a school assignment that runs on all terminals that support Unicode. This was our first development project.
 To play it compile and run the Main script.
 
 <h2>Assignment :</h2>
