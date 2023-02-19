@@ -1,4 +1,4 @@
-# A-door-was-opened
+# The-Door-Was-Opened
 Game made in java as a school assignment that runs on all terminals that support Unicode. This was our first development project.
 To play it compile and run the Main script.
 
@@ -16,4 +16,4 @@ You play as a girl that was trapped in a dungeon, you must fight your way throug
   <li>Reach the end without dying and beat the final boss.</li>
 </ul>
 
-If your terminal doesn't support Unicode (consider getting one that does) but see <a href = "https://github.com/Tarroook/A-Door-Was-Opened-Lite-">this</a>.
+If your terminal doesn't support Unicode (consider getting one that does) but see <a href = "https://github.com/Tarroook/The-Door-Was-Opened-Lite-">this</a>.
